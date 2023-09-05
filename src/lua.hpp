@@ -2,7 +2,7 @@
 
 extern "C" {
 #include "lauxlib.h"
-#include "lib3rd.h"
+#include "lua_extensions.h"
 #include "lua.h"
 #include "luajit.h"
 #include "lualib.h"
